@@ -1,4 +1,4 @@
-# This is a simple todo application built with FastAPI, JavaScript, SQLAlchemy, and SQLite.
+# This is a simple todo application built with FastAPI, JavaScript, SQLAlchemy and SQLite.
 
 ## Features
 
