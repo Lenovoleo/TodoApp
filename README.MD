@@ -9,7 +9,7 @@
 ## Installation
 
 1. Clone the repository:
-   `git clonehttps://github.com/Lenovoleo/TodoApp.git`
+   `git clone https://github.com/Lenovoleo/TodoApp.git`
 
 2. Create virtual-environment:
    `py -3 -m venv venv`
